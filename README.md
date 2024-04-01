@@ -19,6 +19,8 @@ Meta Questアプリ
   + お気遣い 機能
 
 ## 技術構成図
+[🔗オンプレ版の新構成図はこっち](https://github.com/ksk-14/ARassistant/issues/2#issuecomment-2030046581)
+
 ![ARアシスタント_モザイクアリ](https://github.com/ksk-14/ARassistant/assets/109534137/2e86b7cc-350d-40b7-b7e6-f1e497b98099)
 
 ## 技術構成 詳細
